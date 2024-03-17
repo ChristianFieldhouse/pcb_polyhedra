@@ -1,0 +1,9 @@
+Plotted to '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-F_Cu.gbr'.
+Plotted to '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-B_Cu.gbr'.
+Plotted to '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-F_Silkscreen.gbr'.
+Plotted to '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-B_Silkscreen.gbr'.
+Plotted to '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-F_Mask.gbr'.
+Plotted to '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-B_Mask.gbr'.
+Plotted to '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-Edge_Cuts.gbr'.
+Created Gerber job file '/home/christian/projects/led_solids/icosahedron/single_led_notched/icosahedron-job.gbrjob'.
+Info: Done.

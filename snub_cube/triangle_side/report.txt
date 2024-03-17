@@ -1,0 +1,11 @@
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-F_Cu.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-B_Cu.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-F_Paste.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-B_Paste.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-F_Silkscreen.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-B_Silkscreen.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-F_Mask.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-B_Mask.gbr'.
+Plotted to '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-Edge_Cuts.gbr'.
+Created Gerber job file '/home/christian/projects/led_solids/snub_cube/triangle_side/snub_cube_triangle_side-job.gbrjob'.
+Info: Done.
