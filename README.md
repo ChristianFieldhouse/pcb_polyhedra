@@ -7,7 +7,7 @@ first batchof pcbs:
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/864e8ad5-53d0-4f2f-9214-43918d8a1574)
 
-The pcbs were placed in a rig and soldered at the corners (ground is in the very corner, VCC forms a ring around ground)
+The pcbs were placed in a jig and soldered at the corners (ground is in the very corner, VCC forms a ring around ground)
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/1b118f09-8745-42cc-86f6-a2c53c70dc6f)
 
