@@ -3,7 +3,7 @@ Mechanical design files (used to create a jig for assembly, dxf pcb edge cuts, a
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/614e0ea4-439a-4f0f-b056-b7cf229022aa)
 
-first batch of pcbs (these don't have tounge and groove joints in the corner):
+first batch of 40 pcbs, produced by PCBWay at a cost of <£10 including shipping. These don't have tounge and groove joints in the corner:
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/864e8ad5-53d0-4f2f-9214-43918d8a1574)
 
@@ -18,3 +18,9 @@ assempled with LEDs soldered:
 Sanded down the LEDs to diffuse the light, cut off the legs of the LEDs, printed a stand:
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/271faa6d-e693-431f-802f-ff9fc1579d36)
+
+Tongue and groove versions of icosahedron not tested yet.
+
+Snub cube pcbs with tongue and groove joints are also designed but not yet tested.
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/88e9b076-863f-4e44-8376-4284ef3685ef)
