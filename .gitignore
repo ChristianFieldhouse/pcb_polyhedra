@@ -2,3 +2,6 @@
 *.gbr
 *.drl
 *.kicad_prl
+*.gbrjob
+*fp-info-cache
+*#auto_saved_files#
