@@ -19,7 +19,18 @@ Sanded down the LEDs to diffuse the light, cut off the legs of the LEDs, printed
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/271faa6d-e693-431f-802f-ff9fc1579d36)
 
-Tongue and groove versions of icosahedron not tested yet.
+Tongue and groove versions of icosahedron assembled in the same way
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/16d18369-a8a3-4690-be7b-b16b9d541561)
+
+bit more margin for error, so easier to solder the corners
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/ead1599b-2cb5-4f34-881b-5941fe0bbbf5)
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/b0c43422-f7a0-4fa6-be08-9e51c6d0902b)
+
+Orange LEDs sanded down (takes some time, diffuse LEDs are available to buy instead!), and soldered on
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/8cc91033-5d2a-4f55-9cc9-a3e050c855c2)
 
 Snub cube pcbs with tongue and groove joints are also designed but not yet tested.
 
