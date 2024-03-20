@@ -1,3 +1,6 @@
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/99b6ce5a-3d32-467f-a1b7-75f2d7c1d1ba)
+
+
 Kicad files for 3d polyhedrons whose edges are single pcbs.
 Mechanical design files (used to create a jig for assembly, dxf pcb edge cuts, and stand) can be found on onshape: https://cad.onshape.com/documents/2b28f32d3c45028b2ca3b83c/w/f6f68f4f6320d1f011d99ec9/e/1862cafe5ff15b43acebc721?renderMode=0&uiState=65f6e3c7d6b7cf5145787542
 
