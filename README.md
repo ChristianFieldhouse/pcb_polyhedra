@@ -32,6 +32,10 @@ Orange LEDs sanded down (takes some time, diffuse LEDs are available to buy inst
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/8cc91033-5d2a-4f55-9cc9-a3e050c855c2)
 
+3d printed power supply case takes USB-C, has a switch, and outputs the right voltage for the LEDs
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/95917ec9-b6ad-437c-adf2-79d3f635fa39)
+
 Snub cube pcbs with tongue and groove joints are also designed but not yet tested.
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/88e9b076-863f-4e44-8376-4284ef3685ef)
