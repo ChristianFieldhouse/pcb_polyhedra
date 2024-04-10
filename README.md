@@ -1,3 +1,5 @@
+## Icosahedron
+
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/99b6ce5a-3d32-467f-a1b7-75f2d7c1d1ba)
 
 
@@ -39,6 +41,28 @@ Orange LEDs sanded down (takes some time, diffuse LEDs are available to buy inst
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/95917ec9-b6ad-437c-adf2-79d3f635fa39)
 
-Snub cube pcbs with tongue and groove joints are also designed but not yet tested.
+## Snub Cube
+
+Snub cube pcbs with tongue and groove joints go together in a similar way. There are two different PCBs - the square and triangle edges.
 
 ![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/88e9b076-863f-4e44-8376-4284ef3685ef)
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/f8b6489f-305d-4c67-849e-4a93be623608)
+
+All corners are identical, so you only need one jig, and the jig tells you which of the two edges to use.
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/dd84317e-d075-41d2-bd95-984002d9cd37)
+
+All PCBs soldered together
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/de1e036f-3401-4e0d-bdd4-aa9a208c99a9)
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/8720c2a7-ab33-4b2c-94c0-b6fb7225236f)
+
+I bought some flat-top LEDs (which are less directional), and tested they run in parallel ok. In the final build I did notice a slight difference in brightness, but it isn't a big effect.
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/e8994dce-a896-4a0e-99ab-68516298048f)
+
+All LEDs soldered (and legs cut off)
+
+![image](https://github.com/ChristianFieldhouse/pcb_polyhedra/assets/48842799/02177b6f-e08f-4388-af87-3cb877578bc4)
+
